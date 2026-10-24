@@ -62,6 +62,6 @@ The project is not yet open for code contributions, but ideas and bug reports ar
 
 ## License
 
-**MIT License** (./license.md)
+**[MIT License](./license.md)**
 
 Copyright (c) 2026-present, ReMedia project
